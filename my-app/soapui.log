@@ -1,0 +1,116 @@
+2021-02-01 10:31:06,966 WARN  [SoapUI] Missing folder [C:\Users\DuvarakeshKV\Desktop\reskill\api\projct1\my-app\ext] for external libraries
+2021-02-01 10:31:07,279 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DuvarakeshKV\soapui-settings.xml]
+2021-02-01 10:31:08,456 INFO  [WsdlProject] Loaded project from [file:/C:/Users/DuvarakeshKV/Desktop/reskill/api/projct1/my-app/ENDTOEND-AUTOMATION-soapui-project.xml]
+2021-02-01 10:31:09,161 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [ENDTOEND AUTOMATION]
+2021-02-01 10:31:09,163 INFO  [SoapUITestCaseRunner] Running Project [ENDTOEND AUTOMATION], runType = SEQUENTIAL
+2021-02-01 10:31:09,191 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Tc001_ End To End flow using Property  and property transfer]
+2021-02-01 10:31:09,217 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 10:31:09,268 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2021-02-01 10:31:09,509 INFO  [SoapUITestCaseRunner] running step [save]
+2021-02-01 10:31:52,489 INFO  [log] my orderId 2110
+2021-02-01 10:31:52,495 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:31:52,495 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-01 10:31:52,498 INFO  [SoapUITestCaseRunner] running step [GetAllListOfProduct]
+2021-02-01 10:32:53,680 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:32:53,680 INFO  [SoapUITestCaseRunner] running step [Property Transfer for orderid]
+2021-02-01 10:32:53,689 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 10:32:54,825 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:32:54,831 INFO  [SoapUITestCaseRunner] running step [property Transfer for orderid from getid]
+2021-02-01 10:32:54,835 INFO  [SoapUITestCaseRunner] running step [status]
+2021-02-01 10:32:56,236 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:32:56,237 INFO  [SoapUITestCaseRunner] running step [Property Transfer id for cancel]
+2021-02-01 10:32:56,244 INFO  [SoapUITestCaseRunner] running step [cancel]
+2021-02-01 10:32:57,120 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:32:57,125 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Tc001_ End To End flow using Property  and property transfer], time taken: 107859ms, status: FINISHED
+2021-02-01 10:32:57,140 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC002_End to End flow using Property and Property Expansion]
+2021-02-01 10:32:57,145 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 10:32:57,152 INFO  [SoapUITestCaseRunner] running step [save]
+2021-02-01 10:32:58,321 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:32:58,329 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-01 10:32:58,330 INFO  [SoapUITestCaseRunner] running step [GetAllListOfProduct1]
+2021-02-01 10:33:45,016 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:33:45,017 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 10:33:47,777 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:33:47,777 INFO  [SoapUITestCaseRunner] running step [status]
+2021-02-01 10:33:48,832 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:33:48,833 INFO  [SoapUITestCaseRunner] running step [cancel]
+2021-02-01 10:33:50,220 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:33:50,222 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC002_End to End flow using Property and Property Expansion], time taken: 53052ms, status: FINISHED
+2021-02-01 10:33:50,226 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC003_End to End flow using Property andGroovy Script]
+2021-02-01 10:33:50,228 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 10:33:50,230 INFO  [SoapUITestCaseRunner] running step [save]
+2021-02-01 10:33:52,355 INFO  [log] duvarakeshkv@gmail.com
+2021-02-01 10:33:52,362 INFO  [log] SKU141197
+2021-02-01 10:33:52,367 INFO  [log] 3
+2021-02-01 10:33:52,377 INFO  [log] 400
+2021-02-01 10:33:52,380 INFO  [log] checkmo
+2021-02-01 10:33:52,425 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:33:52,425 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-01 10:33:52,428 INFO  [SoapUITestCaseRunner] Assertion [script_groovy_property] has status VALID
+2021-02-01 10:33:52,433 INFO  [SoapUITestCaseRunner] running step [GetAllListOfProduct1]
+2021-02-01 10:35:00,409 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:00,410 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 10:35:01,525 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:01,526 INFO  [SoapUITestCaseRunner] running step [status]
+2021-02-01 10:35:02,519 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:02,519 INFO  [SoapUITestCaseRunner] running step [cancel]
+2021-02-01 10:35:03,395 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:03,395 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC003_End to End flow using Property andGroovy Script], time taken: 73145ms, status: FINISHED
+2021-02-01 10:35:03,398 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC004_GRO0VY_Script]
+2021-02-01 10:35:03,399 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2021-02-01 10:35:03,443 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC003_End to End flow using Property andGroovy Script]
+2021-02-01 10:35:03,445 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 10:35:03,445 INFO  [SoapUITestCaseRunner] running step [save]
+2021-02-01 10:35:04,755 INFO  [log] kvduvarakesh0009@gmail.com
+2021-02-01 10:35:04,759 INFO  [log] SKU141197
+2021-02-01 10:35:04,765 INFO  [log] 2
+2021-02-01 10:35:04,769 INFO  [log] 300
+2021-02-01 10:35:04,772 INFO  [log] checkmo
+2021-02-01 10:35:04,774 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:04,774 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-01 10:35:04,774 INFO  [SoapUITestCaseRunner] Assertion [script_groovy_property] has status VALID
+2021-02-01 10:35:04,775 INFO  [SoapUITestCaseRunner] running step [GetAllListOfProduct1]
+2021-02-01 10:35:51,978 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:51,979 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 10:35:53,168 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:53,168 INFO  [SoapUITestCaseRunner] running step [status]
+2021-02-01 10:35:54,164 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:54,166 INFO  [SoapUITestCaseRunner] running step [cancel]
+2021-02-01 10:35:55,135 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:55,135 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC003_End to End flow using Property andGroovy Script], time taken: 51674ms, status: FINISHED
+2021-02-01 10:35:55,168 INFO  [log] Status =FINISHED, time taken to complete the execution is 51674 ms
+2021-02-01 10:35:55,209 INFO  [log] number of test steps executed are 6
+2021-02-01 10:35:55,210 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC004_GRO0VY_Script], time taken: 51808ms, status: FINISHED
+2021-02-01 10:35:55,222 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC005_DataDriven]
+2021-02-01 10:35:55,222 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2021-02-01 10:35:55,632 INFO  [log] total number of rows containing data are 7
+2021-02-01 10:35:55,645 INFO  [log] duvarakeshkv@gmail.com
+2021-02-01 10:35:55,646 INFO  [log] SKU141197
+2021-02-01 10:35:55,655 INFO  [log] 3
+2021-02-01 10:35:55,659 INFO  [log] 400
+2021-02-01 10:35:55,661 INFO  [log] checkmo
+2021-02-01 10:35:55,663 INFO  [log] 1
+2021-02-01 10:35:55,671 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC003_End to End flow using Property andGroovy Script]
+2021-02-01 10:35:55,678 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 10:35:55,679 INFO  [SoapUITestCaseRunner] running step [save]
+2021-02-01 10:35:57,261 INFO  [log] duvarakeshkv@gmail.com
+2021-02-01 10:35:57,264 INFO  [log] SKU141197
+2021-02-01 10:35:57,266 INFO  [log] 3
+2021-02-01 10:35:57,268 INFO  [log] 400
+2021-02-01 10:35:57,269 INFO  [log] checkmo
+2021-02-01 10:35:57,270 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:35:57,280 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-01 10:35:57,281 INFO  [SoapUITestCaseRunner] Assertion [script_groovy_property] has status VALID
+2021-02-01 10:35:57,282 INFO  [SoapUITestCaseRunner] running step [GetAllListOfProduct1]
+2021-02-01 10:36:40,841 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:36:41,067 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 10:36:42,250 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:36:42,250 INFO  [SoapUITestCaseRunner] running step [status]
+2021-02-01 10:36:43,148 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:36:43,148 INFO  [SoapUITestCaseRunner] running step [cancel]
+2021-02-01 10:36:44,095 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:36:44,095 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC003_End to End flow using Property andGroovy Script], time taken: 48165ms, status: FINISHED
+2021-02-01 10:36:44,099 INFO  [log] Status =FINISHED, time taken to complete the execution is 48165 ms
+2021-02-01 10:36:44,101 INFO  [log] number of test steps executed are 6
+2021-02-01 10:36:44,103 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC005_DataDriven], time taken: 48877ms, status: FINISHED
+2021-02-01 10:36:44,109 INFO  [SoapUITestCaseRunner] Project [ENDTOEND AUTOMATION] finished with status [FINISHED] in 334941ms

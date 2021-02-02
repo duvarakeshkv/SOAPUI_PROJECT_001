@@ -1,0 +1,27 @@
+2021-02-01 10:31:52,489 INFO  [log] my orderId 2110
+2021-02-01 10:33:52,355 INFO  [log] duvarakeshkv@gmail.com
+2021-02-01 10:33:52,362 INFO  [log] SKU141197
+2021-02-01 10:33:52,367 INFO  [log] 3
+2021-02-01 10:33:52,377 INFO  [log] 400
+2021-02-01 10:33:52,380 INFO  [log] checkmo
+2021-02-01 10:35:04,755 INFO  [log] kvduvarakesh0009@gmail.com
+2021-02-01 10:35:04,759 INFO  [log] SKU141197
+2021-02-01 10:35:04,765 INFO  [log] 2
+2021-02-01 10:35:04,769 INFO  [log] 300
+2021-02-01 10:35:04,772 INFO  [log] checkmo
+2021-02-01 10:35:55,168 INFO  [log] Status =FINISHED, time taken to complete the execution is 51674 ms
+2021-02-01 10:35:55,209 INFO  [log] number of test steps executed are 6
+2021-02-01 10:35:55,632 INFO  [log] total number of rows containing data are 7
+2021-02-01 10:35:55,645 INFO  [log] duvarakeshkv@gmail.com
+2021-02-01 10:35:55,646 INFO  [log] SKU141197
+2021-02-01 10:35:55,655 INFO  [log] 3
+2021-02-01 10:35:55,659 INFO  [log] 400
+2021-02-01 10:35:55,661 INFO  [log] checkmo
+2021-02-01 10:35:55,663 INFO  [log] 1
+2021-02-01 10:35:57,261 INFO  [log] duvarakeshkv@gmail.com
+2021-02-01 10:35:57,264 INFO  [log] SKU141197
+2021-02-01 10:35:57,266 INFO  [log] 3
+2021-02-01 10:35:57,268 INFO  [log] 400
+2021-02-01 10:35:57,269 INFO  [log] checkmo
+2021-02-01 10:36:44,099 INFO  [log] Status =FINISHED, time taken to complete the execution is 48165 ms
+2021-02-01 10:36:44,101 INFO  [log] number of test steps executed are 6
